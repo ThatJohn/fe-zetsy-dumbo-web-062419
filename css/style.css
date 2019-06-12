@@ -10,6 +10,10 @@ body {
   background-color: #fff;
 }
 
+h1 {
+  font-family: 'Baskerville', serif;
+}
+
 h1 a {
   text-decoration: none;
 }
