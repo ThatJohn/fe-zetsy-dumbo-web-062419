@@ -1,5 +1,6 @@
 body {
   background-color: #F3EBE9;
+  box-sizing: border-box;
 }
 
 .wrapper {
