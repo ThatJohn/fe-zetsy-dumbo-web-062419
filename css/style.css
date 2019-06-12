@@ -1,4 +1,9 @@
+body {
+  background-color: #F3EBE9;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
+  background-color: #fff;
 }
