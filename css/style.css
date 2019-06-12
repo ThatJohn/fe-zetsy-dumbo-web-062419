@@ -24,3 +24,7 @@ h1 a {
 h1 a:hover {
   text-decoration: underline;
 }
+
+img {
+  border: 5px 5px rgb(152,173,166) solid;
+}
