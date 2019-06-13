@@ -13,6 +13,7 @@ body {
 }
 
 h1 {
+  /* NOTE TO EXAMINERS: Had to use this version of Baskerville because the one used in the example was a paid font by adobe. */
   font-family: 'Libre Baskerville', serif;
   font-size: 5em;
   margin: 0 0 5px;
