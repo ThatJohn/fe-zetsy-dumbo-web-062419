@@ -44,3 +44,7 @@ p {
 #as-seen-on a img{
   border: 5px #ccc solid;
 }
+
+footer {
+  text-align: right;
+}
