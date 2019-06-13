@@ -40,3 +40,7 @@ h2 {
 p {
   margin: 0 0 20px 0;
 }
+
+#as-seen-on a img{
+  border: 5px #ccc solid;
+}
