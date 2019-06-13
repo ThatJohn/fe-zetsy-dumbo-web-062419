@@ -30,3 +30,7 @@ h1 a:hover {
 #first img {
   border: 5px rgb(152,173,166) solid;
 }
+
+p {
+  margin: 0 0 20px 0;
+}
