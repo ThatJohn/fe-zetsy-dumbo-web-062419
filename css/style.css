@@ -1,6 +1,8 @@
 body {
   background-color: #F3EBE9;
   box-sizing: border-box;
+  font-family: 'Times New Roman', serif;
+  color: #555;
 }
 
 .wrapper {
